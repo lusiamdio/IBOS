@@ -1,0 +1,17 @@
+{
+  "name": "IBOS - Informal Business OS",
+  "short_name": "IBOS",
+  "description": "The operating system for the informal economy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F8FA",
+  "theme_color": "#1C6EA4",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
